@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  file_path: MyString
+  file_name: MyString
+  file_size: 1
+  has_changed: false
+  file_checksum: MyString
+  still_exist: false
+  email_count: 1
+
+two:
+  file_path: MyString
+  file_name: MyString
+  file_size: 1
+  has_changed: false
+  file_checksum: MyString
+  still_exist: false
+  email_count: 1
